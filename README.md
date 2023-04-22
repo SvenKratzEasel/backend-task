@@ -1,6 +1,6 @@
-# Backend/Fullstack Engineering Task - iOS CI/CD Pipeline
+# Fullstack Engineering Task - iOS CI/CD Pipeline
 
-Welcome to the Easel AI's Backend/Fullstack Engineering Task for creating a Continuous Integration and Deployment (CI/CD) pipeline for an iOS development project.
+Welcome to the Easel AI's Fullstack Engineering Task for creating a Continuous Integration and Deployment (CI/CD) pipeline for an iOS development project.
 
 Since we're still a very young company, we would like you to showcase how to bring up some very fundamental services from scratch. 
 
