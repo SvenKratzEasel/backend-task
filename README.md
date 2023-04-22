@@ -9,7 +9,7 @@ Concretely, we would like you to create a CI/CD pipeline for IOS development. To
 1. Fork this repo into you own GitHub accound so that you can access the necessary features.
 2. Create an example iPhone project, and implement some tests for the code. 
 
-### The pipeline should support the following features upon pushing a new commit to the github repository.:*
+### The pipeline should support the following features upon pushing a new commit to the github repository:
 
 - Run linter on the project code and report any linting errors
 - Verify that the project file compiles and report any errors
